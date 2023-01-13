@@ -17,7 +17,7 @@ Features
 
 
 
-How do I add it to the plugins folder?
+How do I add it to the Themes folder?
 
 
 1. After the BetterDiscord installation process is complete, go to you Discord settings and go to the themes tab (should be at the bottom of the "USER SETTINGS" list.)
