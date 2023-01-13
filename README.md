@@ -20,10 +20,10 @@ Features
 How do I add it to the plugins folder?
 
 
-After the BetterDiscord installation process is complete, go to you Discord settings and go to the themes tab (should be at the bottom of the "USER SETTINGS" list.
+1. After the BetterDiscord installation process is complete, go to you Discord settings and go to the themes tab (should be at the bottom of the "USER SETTINGS" list.
 
 
-Click "Themes" and above click the "Open themes folder" button and drag the downloaded .css file that was given in the the repo.
+2. Click "Themes" and above click the "Open themes folder" button and drag the downloaded .css file that was given in the the repo.
 
 
-Toggle the swtich and you're done.
+3. Toggle the swtich and you're done.
