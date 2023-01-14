@@ -26,4 +26,4 @@ How do I add it to the Themes folder?
 2. Click "Themes" and above click the "Open themes folder" button and drag the downloaded .css file that was given in the the repo.
 
 
-3. Toggle the swtich and you're done.
+3. Toggle the switch and you're done.
