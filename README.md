@@ -27,3 +27,7 @@ How do I add it to the Themes folder?
 
 
 3. Toggle the switch and you're done.
+
+# Demo View
+
+![image](https://cdn.discordapp.com/attachments/1150242860273254460/1182045282402324581/Discord_TR8b6FoURj.png?ex=65834474&is=6570cf74&hm=db7f66ecfa220098d753e9edbd82eeeb126f6d9d0dcc0a9644461bff38fa4f4c&)
