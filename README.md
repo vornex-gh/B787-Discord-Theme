@@ -30,4 +30,4 @@ How do I add it to the Themes folder?
 
 # Demo View
 
-![image](https://cdn.discordapp.com/attachments/1150242860273254460/1182045282402324581/Discord_TR8b6FoURj.png)
+![image]([https://github.com/vornex-gh/B787-Discord-Theme/blob/main/b787.png)
