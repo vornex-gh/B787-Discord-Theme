@@ -1,5 +1,5 @@
 BetterDiscord must be downloaded. If you don't have already download it here. 👉
-https://betterdiscord.app/
+https://betterdiscord.app/ or Https://vencord.dev/
 
 
 Features 
